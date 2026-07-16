@@ -8,6 +8,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:6C5CE7&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img width="180" src="https://raw.githubusercontent.com/CarlosSSanchez/CarlosSSanchez/master/penguin.gif" alt="waddling penguin" />
+</p>
+
 ---
 
 ### 🎯 About Me
@@ -38,35 +42,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📈 Stock Market Portfolio Management System</h3>
-      <p align="center">Full-stack trading platform: stock trading, portfolio tracking, wallet management &amp; transaction history. Custom relational schema designed from scratch — not just CRUD.</p>
-      <p align="center"><code>Java · JDBC · MySQL · HTML/CSS/JS</code></p>
-      <p align="center"><a href="https://github.com/Utkarsh172006/DBMS_StockMarket">🔗 View Repo</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Secure Login System (Brute-Force Protection)</h3>
-      <p align="center">Authentication system with SHA-256 password hashing, failed-attempt tracking, and automatic account lockout. Directly applies OWASP-listed threat modeling.</p>
-      <p align="center"><code>Java · SHA-256</code></p>
-      <p align="center"><a href="https://github.com/Utkarsh172006/Login-System-with-Brute-Force-Protection">🔗 View Repo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">📅 Calendar Reminder System</h3>
-      <p align="center">Console-based CRUD reminder tool built from scratch using arrays for storage — covers input validation, loops, and state management.</p>
-      <p align="center"><code>Java</code></p>
-      <p align="center"><a href="https://github.com/Utkarsh172006/Calender">🔗 View Repo</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,30 +52,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh172006&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utkarsh172006&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Utkarsh172006/Utkarsh172006/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-> ℹ️ This animated snake needs a one-time GitHub Actions workflow to generate itself — see the setup note at the bottom of this file.
-
----
-
-### 🏅 Achievements
-
-- 🥇 Top 20 Teams — Smart India Hackathon (SIH) Inter-College Competition
-- 🥈 2nd Place — AEGIS Inter-College Hackathon
-- ✅ Commonwealth Bank Software Engineering Job Simulation (Tata Forge)
-- 📜 Oracle Cloud Infrastructure AI Foundations Associate
-- 📜 Introduction to Critical Infrastructure Protection (ICIP)
 
 ---
 
