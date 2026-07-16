@@ -42,12 +42,18 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Utkarsh172006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh172006&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions" />
 </p>
+
+
+---
+
+
+
+### 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh172006&theme=tokyonight&hide_border=true" />
