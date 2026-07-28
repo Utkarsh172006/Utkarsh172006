@@ -16,12 +16,12 @@
 
 ###  About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering (Cyber Security)** @ SRM Institute of Science and Technology (2024 – 2028)
-- 💻 Comfortable across the stack — relational DB design, backend logic, and frontend
-- 🔐 Specific interest in **applied security** — authentication systems, brute-force defense, threat modeling
-- 🏆 Top-20 finish at **Smart India Hackathon (SIH)** | 🥈 2nd Place at **AEGIS Inter-College Hackathon**
-- 🌱 Currently sharpening my skills in DSA, full-stack development, and cybersecurity fundamentals
-- ⚡ Fun fact: I like turning "just a CRUD app" into a project with real schema design and real threat models
+- B.Tech in **Computer Science & Engineering (Cyber Security)** @ SRM Institute of Science and Technology (2024 – 2028)
+- Comfortable across the stack — relational DB design, backend logic, and frontend
+- Specific interest in **applied security** — authentication systems, brute-force defense, threat modeling
+- Top-20 finish at **Smart India Hackathon (SIH)** | 🥈 2nd Place at **AEGIS Inter-College Hackathon**
+- Currently sharpening my skills in DSA, full-stack development, and cybersecurity fundamentals
+- Fun fact: I like turning "just a CRUD app" into a project with real schema design and real threat models
 
 ---
 
