@@ -14,7 +14,7 @@
 
 ---
 
-### 🎯 About Me
+###  About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering (Cyber Security)** @ SRM Institute of Science and Technology (2024 – 2028)
 - 💻 Comfortable across the stack — relational DB design, backend logic, and frontend
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,react,spring,mysql,git,html,css,js&theme=dark" />
@@ -41,27 +41,13 @@
 </p>
 
 ---
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions" />
 </p>
 
-
 ---
 
-
-
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh172006&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-srivastava-17d/">
